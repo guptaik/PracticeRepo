@@ -1,0 +1,5 @@
+#check versions:   npm --v
+#install npm: npm i
+
+#start npm : npm init or npm init -y
+#install dependencies : npm i <package name>

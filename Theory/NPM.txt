@@ -1,0 +1,24 @@
+Why do we need NPM, what is npm?
+
+It is a package manager for the JavaScript programming language and is the default package manager for Node.js, a runtime environment for executing JavaScript code on the server side.
+
+1.npm allows developers to install, share, and manage reusable code packages (also called modules or libraries). These packages can be easily incorporated into projects to add functionality without having to write everything from scratch.
+
+2.npm provides a command-line interface (CLI) that enables developers to interact with the npm ecosystem. Commands such as npm install, npm update, and npm publish allow for easy management of packages.
+
+3.npm hosts an extensive online repository of open-source packages. Developers can publish their own packages to npm's registry and can also find and use packages published by others.
+
+
+USE OF NPM :
+Dependency Management:
+
+Automatic Dependency Handling: When you install a package, npm also installs any dependencies that package requires, simplifying the setup process.
+
+Version Management: npm allows you to specify and manage the versions of packages your project depends on, ensuring compatibility and stability.
+
+Simplifies Development:
+Reusable Code: By using npm packages, developers can leverage existing solutions for common tasks, speeding up development.
+
+Scripts and Automation: npm allows you to define scripts in your package.json file to automate common tasks like running tests, building projects, and starting development servers.
+
+Vast Library of Packages: npm hosts millions of packages, providing solutions for a wide range of problems, from utility functions to entire frameworks.
